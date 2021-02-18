@@ -1,0 +1,15 @@
+# Font style metadata
+name = "dcos"
+
+# Optional Google font URL
+google_fonts = "Futura:400,700|Century Gothic|Roboto+Mono"
+
+# Font families
+heading_font = "Futura"
+body_font = "Century Gothic"
+nav_font = "Futura"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "14"
+font_size_small = "12"

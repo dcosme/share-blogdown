@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Logistics"
-subtitle = "We meet twice a week, alternating lectures on Mondays and labs on Wednesdays. Lab sessions will largely use the open-source R and ggplot2 tools."
+subtitle = "We meet on Zoom once a week on Friday afternoons and communicate outside these meetings on Slack"
 
 # Showcase personal skills or business features.
 # 
@@ -15,21 +15,20 @@ subtitle = "We meet twice a week, alternating lectures on Mondays and labs on We
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "cloud"
-  icon_pack = "fas"
-  name = "Location"
-  description = "Online, all the time"
-  
-[[feature]]
   icon = "play-circle"
   icon_pack = "far"
-  name = "Lecture"
-  description = "Mondays, 12:00 – 13:30"  
+  name = "Weekly Meetings"
+  description = "Fridays 2:00 - 3:00 PM EST<br>on Zoom" 
   
 [[feature]]
-  icon = "code"
-  icon_pack = "fas"
-  name = "Labs"
-  description = "Wednesdays, 12:00 – 13:30"
-
+  icon = "slack"
+  icon_pack = "fab"
+  name = "[PLTV Slack](https://pennleadsthevote.slack.com)"
+  description = "For communicating outside of weekly meetings"  
+  
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "[Github repo](https://github.com/dcosme/pltv-seminar)"
+  description = "For accessing source code of all seminar materials"  
 +++

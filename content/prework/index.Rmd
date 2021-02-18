@@ -1,0 +1,50 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Prework"
+subtitle: ""
+summary: ""
+authors: []
+tags: []
+categories: []
+date: 
+lastmod: 2020-09-11T11:17:19-07:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: 
+  focal_point: ""
+  preview_only: true
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
+Welcome to the PLTV Applied Research and Data Analysis Pro-Seminar!
+
+To help things run smoothly, please do the following tasks **before our first meeting on Friday, February 26**.
+
+***
+
+<br> 
+
+1) Join the [#data-bootcamp Slack channel](https://pennleadsthevote.slack.com/). This will be our primary means for communication throughout the semester. If you haven't received an invitation or are having trouble accessing/using Slack, please let me know asap so we can figure out a solution that works for you. Email me at [danielle.cosme@asc.upenn.edu](mailto:danielle.cosme@asc.upenn.edu)
+
+2) Complete the ethics training through [Collaborative Institutional Training Initiative (CITI)](https://drive.google.com/file/d/1BbrWBvWuYtSF0EN6i8VFMTYjUmQdLPFi/view) and send me your CITI certificate when you've completed it. This will enable me to add you to the Communication Neuroscience IRB and share relevant data with you.
+
+3) Download [R](https://cran.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
+
+4) Review the [Syllabus](/#syllabus) and review the [Code of Conduct](/#code_of_conduct).
+
+Looking forward to working with y'all this semester!
+
+// Dani
+

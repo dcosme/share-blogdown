@@ -1,24 +1,20 @@
 ---
 authors:
 - admin
-bio: This course will give students a foundation in the principles and practice of
-  data visualization, particularly as applied to scientific and technical data.
+bio: 
 email: ""
 name: null
 organizations:
-- name: Oregon Health & Science University
-  url: https://www.ohsu.edu/
+- name: University of Pennsylvania
+  url: https://www.upenn.edu/
 role: null
 social:
-- icon: r-project
+- icon: slack
   icon_pack: fab
-  link: https://rstudio.cloud
-- icon: piazza
-  icon_pack: ai
-  link: https://piazza.com/
+  link: https://pennleadsthevote.slack.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/apreshill/dataviz-intro
+  link: https://github.com/dcosme/pltv-seminar
 superuser: true
 user_groups:
 - Researchers
@@ -27,6 +23,6 @@ user_groups:
 
 <br>
 
-This course will give students a foundation in the principles and practice of data visualization, particularly as applied to scientific and technical data. 
+This is the website for an 8-week pro-seminar for University of Pennsylvania students involved with [Penn Leads the Vote](https://www.pennvotes.org/) to get hands on experience conducting applied research and analyzing data in the context of their ongoing PLTV activities.
 
-We will have weekly lectures, covering a wide variety of topics including human perception, color theory, principles of visual design, etc. We will also have weekly hands-on laboratory sessions in which students will have the opportunity to put the lecture material into practice. This year, we will be adding additional emphasis on larger issues of scientific communication— after all, that's one of the main reasons we make visualizations! 
+This seminar will be held Spring 2021.

@@ -29,14 +29,14 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/Clouds.jpg"  # Name of image in `static/img/`.
+  image = ""  # Name of image in `static/img/`.
   image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -50,18 +50,36 @@ subtitle = ""
  css_class = ""
 +++
 
-## Assignments & Project
+## Course objectives
 
-There will be regular homework assignments, typically as part of lab sessions. There will also be a final term project; more details about which will be forthcoming.
 
-## Textbook
+## Expected outcomes
 
-We will be drawing material from a wide variety of sources for this course; as such, there is no single, required text book <em>per se</em>. However, we will frequently refer to Nathan Yau's <a href="http://www.powells.com/biblio/1-9781118462195-4"><em>Data Points</em></a>, and highly recommend that anybody taking this class have a copy. Additionally, many lab sessions and some assignments will use exercises from Nathan Yau's <a href="http://www.powells.com/biblio/2-9780470944882-0"><em>Visualize This</em></a>. Tamara Munzer's <a href="http://www.cs.ubc.ca/~tmm/vadbook/"><em>Visualization Analysis and Design</em></a> is also incredibly useful.
 
-## Access Statement
+## Resources
 
-Our program is committed to all students achieving their potential. If you have a disability or think you may have a disability (physical, learning, hearing, vision, psychological) which may need a reasonable accommodation please contact Student Access at (503) 494-0082 or e-mail studentaccess@ohsu.edu to discuss your needs. You can also find more information at http://www.ohsu.edu/student-access. Because accommodations can take time to implement, it is important to have this discussion as soon as possible. All information regarding a student’s disability is kept in accordance with relevant state and federal laws. 
 
-## Equity & Inclusion
+## Code of conduct
+The instructor is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate in this seminar. Participants violating these rules may be sanctioned or expelled from the seminar at the discretion of the instructor.
 
-Oregon Health & Science University is committed to creating and fostering a learning and working environment based on open communication and mutual respect. If you encounter sexual harassment, sexual misconduct, sexual assault, or discrimination based on race, color, religion, age, national origin or ancestry, veteran or military status, sex, marital status, pregnancy or parenting status, sexual orientation, gender identity, disability or any other protected status please contact the Affirmative Action and Equal Opportunity Department at 503-494-5148 or aaeo@ohsu.edu. Inquiries about Title IX compliance or sex/gender discrimination and harassment may be directed to the OHSU Title IX Coordinator at 503-494-0258 or titleix@ohsu.edu.
+### Expectations
+It is my expectation that event participants will not engage in harassment of any kind, including:
+
+* Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
+* Sexual images in public spaces
+* Deliberate intimidation, stalking, or following
+* Harassing photography or recording
+* Sustained disruption of talks or other events
+* Unwelcome or inappropriate physical contact
+* Unwelcome sexual attention
+* Advocating for, or encouraging, any of the above behavior
+
+Participants asked to stop any harassing behavior are expected to comply immediately. The instructor is also subject to the anti-harassment policy. In particular, they should not use sexualized images, activities, or other material. We expect participants to follow these rules in all seminar-related activities.
+
+### Consequences
+If a participant engages in harassing behavior, the instructor retain the right to take any actions to keep the seminar a welcoming environment for all participants. This includes warning the offender, expulsion from the seminar and/or not being allowed to participate in future seminars. The instructor may take action to redress anything that disrupts the seminar or makes the environment hostile for any participants.
+
+### If you experience or witness any violations…
+Harassment and other code of conduct violations reduce the value of this seminar for everyone. We want you to be happy during this seminar. People who speak up make this seminar a better place. If someone makes you or anyone else feel unsafe or unwelcome, please report it to the instructor as soon as possible.
+
+This Code of Conduct was adapted from the [ABCD Workshop](abcdworkshop.github.io) and [Brainhack.org][https://brainhack.org] Code of Conduct and https://confcodeofconduct.com/

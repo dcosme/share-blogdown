@@ -1,0 +1,21 @@
+# Theme metadata
+name = "dcos"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#F0BD00"
+primary_light = "#F0BD00"
+primary_dark = "#54565B"
+
+# Menu
+menu_primary = "#54565B" #grey
+menu_text = "#fff"
+menu_text_active = "#F0BD00" #yellow
+menu_title = "#fff"
+
+# Backgrounds
+background = "#FFFFFF"
+home_section_odd = "#FFFFFF"
+home_section_even = "#F9F9F9"
