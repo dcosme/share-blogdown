@@ -30,11 +30,7 @@ projects: []
 
 Welcome to the PLTV Applied Research and Data Analysis Pro-Seminar!
 
-To help things run smoothly, please do the following tasks **before our first meeting on Friday, February 26**.
-
-***
-
-<br> 
+To help things run smoothly, please do the following tasks **before our first meeting on Friday, February 26**:
 
 1) Join the [#data-bootcamp Slack channel](https://pennleadsthevote.slack.com/). This will be our primary means for communication throughout the semester. If you haven't received an invitation or are having trouble accessing/using Slack, please let me know asap so we can figure out a solution that works for you. Email me at [danielle.cosme@asc.upenn.edu](mailto:danielle.cosme@asc.upenn.edu)
 
@@ -43,6 +39,23 @@ To help things run smoothly, please do the following tasks **before our first me
 3) Download [R](https://cran.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
 4) Review the [Syllabus](/#syllabus) and review the [Code of Conduct](/#code_of_conduct).
+
+<br> 
+
+To help you get acquainted to R and RStudio, please complete the following modules from the [University of Oregon R Bootcamp Course](https://uopsych-r-bootcamp-2020.netlify.app/).
+
+These should be completed **before Week 4**.
+
+1) [Welcome](https://uopsych-r-bootcamp-2020.netlify.app/post/00-welcome/)
+
+2) [Basics of R and RStudio](https://uopsych-r-bootcamp-2020.netlify.app/post/01-r-basics/)
+
+3) [Data Types and Structures](https://uopsych-r-bootcamp-2020.netlify.app/post/02-data-types/)
+
+4) [Functions and Debugging](https://uopsych-r-bootcamp-2020.netlify.app/post/03-functions/)
+
+All other modules are optional, but highly recommended! 
+
 
 Looking forward to working with y'all this semester!
 
